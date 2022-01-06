@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jacob Jenness.
+- 👀 I’m interested in finding a job as a software engineer.
+- 🌱 I’m currently learning about nerual networks, machine learning, and game development.
+- 📫 You can reach me by email at `jacobsjenness@gmail.com` 
