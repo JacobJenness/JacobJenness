@@ -2,3 +2,4 @@
 - 👀 I’m interested in finding a job as a software engineer.
 - 🌱 I’m currently learning about neural networks, machine learning, and game development.
 - 📫 You can reach me by email at `jacobsjenness@gmail.com` 
+- 🔧 I have experience with Java, Python, C#, R, Rust, Angular Framework, HTML, CSS, Typescript, Git, Github, Zenhub, Docker, MongoDB, and Linux (Ubuntu)
