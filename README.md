@@ -1,5 +1,14 @@
 - 👋 Hi, I’m Jacob Jenness.
 - 👀 I’m a software engineer at Forum Communications Company.
 - 🌱 I’m currently learning about web development technologies, adops, and analytics.
-- 📫 You can reach me by email at `jacobsjenness@gmail.com` 
-- 🔧 I have experience with HTML, CSS, Javascript, Java, Python, C#, R, Rust, Angular Framework, Typescript, Git, Github, Zenhub, Docker, MongoDB, and Linux (Ubuntu).
+- 🔧 I have experience with: 
+  - HTML
+  - CSS
+  - Javascript
+  - Typescript
+  - Java
+  - Git
+  - Github
+  - Docker
+  - Jira
+  - Agile software development
